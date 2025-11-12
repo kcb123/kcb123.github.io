@@ -40,10 +40,3 @@ Welcome to Keegan's super cool website — check out the awesome dog art below! 
 </a>
 
 </div>
-
----
-
-✨ Want to see the *interactive* version with buttons and effects?  
-👉 [Click here to visit the live site on GitHub Pages!](https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/)
-
-</div>
