@@ -48,13 +48,13 @@ Welcome to Keegan's super cool website — check out the awesome dog art below! 
 <div align="center">
 
 <h3 style="font-family:'Segoe UI',Roboto,Helvetica,Arial,sans-serif;
-           font-size:28px;
-           font-weight:800;
-           margin:10px 0;">
+           font-size:34px;
+           font-weight:900;
+           margin:20px 0;">
 🔥 Favorite Songs 🔥
 </h3>
 
-<p style="font-size:18px; color:#475569; margin-bottom:20px;">
+<p style="font-size:26px; color:#475569; margin-bottom:26px;">
 Click a song title to listen on YouTube 🎧
 </p>
 
