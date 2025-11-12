@@ -10,7 +10,7 @@
            -webkit-background-clip:text;
            -webkit-text-fill-color:transparent;
            color:transparent;">
-KEEGAN'S COOL ART WEBSITE
+KEEGAN'S COOL WEBSITE
 </h1>
 
 <p style="font-family:Inter,Roboto,Arial,sans-serif;
@@ -18,12 +18,12 @@ KEEGAN'S COOL ART WEBSITE
           color:#334155;
           max-width:760px;
           margin:0 auto 18px;">
-Welcome to Keegan's super cool website — check out the awesome dog art below! 🐶  
+Welcome to Keegan's super cool website — check out these cute dogs and my favorite music below! 🐶 🎵 
 </p>
 
 ---
 
-### 🐾 Cool Dogs Gallery
+ 🐾 Cool Dogs Gallery
 
 <div align="center">
 
@@ -43,7 +43,7 @@ Welcome to Keegan's super cool website — check out the awesome dog art below! 
 
 ---
 
-### 🎵 Cool Music Keegan’s Listening To
+ 🎵 Cool Music Keegan’s Listening To
 
 <div align="center">
 
