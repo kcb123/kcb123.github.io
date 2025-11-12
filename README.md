@@ -27,7 +27,7 @@ Welcome to Keegan's super cool website — check out the awesome dog art below! 
 
 <div align="center">
 
-<a href="https://images.unsplash.com/photo-1507149833265-60c372daea22?auto=format&fit=crop&w=1200&q=80" target="_blank">
+<a href="https://hips.hearstapps.com/hmg-prod/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=1.00xw:0.669xh;0,0.190xh&resize=1200:*" target="_blank">
   <img src="https://images.unsplash.com/photo-1507149833265-60c372daea22?auto=format&fit=crop&w=400&q=80" width="280" style="border-radius:12px; margin:8px;">
 </a>
 
