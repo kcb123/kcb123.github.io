@@ -18,7 +18,7 @@ KEEGAN'S COOL WEBSITE
           color:#334155;
           max-width:760px;
           margin:0 auto 18px;">
-Welcome to Keegan's super cool website — check out these cute dogs and my favorite music below! 🐶 🎵 
+welcome to my super cool website — check out these cute dogs and my favorite music below! 🐶 🎵 
 </p>
 
 ---
