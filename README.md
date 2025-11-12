@@ -58,22 +58,22 @@ Welcome to Keegan's super cool website — check out the awesome dog art below! 
 Click a song title to listen on YouTube or Spotify 🎧
 </p>
 
-<a href="https://www.youtube.com/watch?v=Tf0OGDjpR6w" target="_blank" style="text-decoration:none; font-weight:600; font-size:18px; color:#1d4ed8;">
+<a href="https://www.youtube.com/watch?v=3W61YfdhFlc&list=RD3W61YfdhFlc&start_radio=1" target="_blank" style="text-decoration:none; font-weight:600; font-size:18px; color:#1d4ed8;">
 🎸 Missed Call — Treaty Oak Revival
 </a>
 <br>
 
-<a href="https://open.spotify.com/track/2rT8lXgWVW0PNsMQa5NYM4" target="_blank" style="text-decoration:none; font-weight:600; font-size:18px; color:#16a34a;">
+<a href="https://www.youtube.com/watch?v=j-lwWgYLb68&list=RDj-lwWgYLb68&start_radio=1" target="_blank" style="text-decoration:none; font-weight:600; font-size:18px; color:#16a34a;">
 🎶 Feathered Indians — Tyler Childers
 </a>
 <br>
 
-<a href="https://www.youtube.com/watch?v=8j0qMY-LeKM" target="_blank" style="text-decoration:none; font-weight:600; font-size:18px; color:#b91c1c;">
-🤠 American Nights — Austin Meade
+<a href="https://www.youtube.com/watch?v=ax4eWS8UBGY&list=RDax4eWS8UBGY&start_radio=1" target="_blank" style="text-decoration:none; font-weight:600; font-size:18px; color:#b91c1c;">
+🤠 American Nights — Zach Bryan
 </a>
 <br>
 
-<a href="https://open.spotify.com/track/5TZQ4kMvoYMWoyw8U13U1t" target="_blank" style="text-decoration:none; font-weight:600; font-size:18px; color:#9333ea;">
+<a href="https://www.youtube.com/watch?v=qbHu2Y7rnNM&list=RDqbHu2Y7rnNM&start_radio=1" target="_blank" style="text-decoration:none; font-weight:600; font-size:18px; color:#9333ea;">
 🌅 Burn It Down — Parker McCollum
 </a>
 
