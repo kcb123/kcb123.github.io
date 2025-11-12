@@ -28,15 +28,3 @@ Welcome to Keegan's super cool website — awesome images, fun colors, and good 
 &nbsp;&nbsp;
 <a href="#
 ---
-
-### 🐾 Cool Dogs Gallery
-
-<div align="center">
-
-<img src="https://images.unsplash.com/photo-1507149833265-60c372daea22?auto=format&fit=crop&w=800&q=80" alt="Happy golden retriever" width="300" style="border-radius:12px; margin:10px;">
-<img src="https://images.unsplash.com/photo-1507149833265-60c372daea22?auto=format&fit=crop&w=800&q=80" alt="Playful husky" width="300" style="border-radius:12px; margin:10px;">
-<img src="https://images.unsplash.com/photo-1518717758536-85ae29035b6d?auto=format&fit=crop&w=800&q=80" alt="Cute pug wearing sunglasses" width="300" style="border-radius:12px; margin:10px;">
-
-</div>
-
----
