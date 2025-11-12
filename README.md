@@ -55,7 +55,7 @@ Welcome to Keegan's super cool website — check out the awesome dog art below! 
 </h3>
 
 <p style="font-size:18px; color:#475569; margin-bottom:20px;">
-Click a song title to listen on YouTube or Spotify 🎧
+Click a song title to listen on YouTube 🎧
 </p>
 
 <a href="https://www.youtube.com/watch?v=3W61YfdhFlc&list=RD3W61YfdhFlc&start_radio=1" target="_blank" style="text-decoration:none; font-weight:600; font-size:18px; color:#1d4ed8;">
