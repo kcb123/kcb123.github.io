@@ -20,9 +20,7 @@ KEEGAN'S COOL ART WEBSITE
           max-width:760px;
           margin:0 auto 18px;">
 Welcome to Keegan's super cool website — awesome images, fun colors, and good music.  
-</p>
-
-<!-- Example quick links (optional) -->
+</p><!-- Example quick links (optional) -->
 <p>
 <a href="#" style="text-decoration:none; font-weight:700; padding:8px 14px; border-radius:8px; border:1px solid rgba(0,0,0,0.06);">Portfolio</a>
 &nbsp;&nbsp;
