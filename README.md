@@ -40,3 +40,42 @@ Welcome to Keegan's super cool website — check out the awesome dog art below! 
 </a>
 
 </div>
+
+---
+
+### 🎵 Cool Music Keegan’s Listening To
+
+<div align="center">
+
+<h3 style="font-family:'Segoe UI',Roboto,Helvetica,Arial,sans-serif;
+           font-size:28px;
+           font-weight:800;
+           margin:10px 0;">
+🔥 Favorite Songs 🔥
+</h3>
+
+<p style="font-size:18px; color:#475569; margin-bottom:20px;">
+Click a song title to listen on YouTube or Spotify 🎧
+</p>
+
+<a href="https://www.youtube.com/watch?v=Tf0OGDjpR6w" target="_blank" style="text-decoration:none; font-weight:600; font-size:18px; color:#1d4ed8;">
+🎸 Missed Call — Treaty Oak Revival
+</a>
+<br>
+
+<a href="https://open.spotify.com/track/2rT8lXgWVW0PNsMQa5NYM4" target="_blank" style="text-decoration:none; font-weight:600; font-size:18px; color:#16a34a;">
+🎶 Feathered Indians — Tyler Childers
+</a>
+<br>
+
+<a href="https://www.youtube.com/watch?v=8j0qMY-LeKM" target="_blank" style="text-decoration:none; font-weight:600; font-size:18px; color:#b91c1c;">
+🤠 American Nights — Austin Meade
+</a>
+<br>
+
+<a href="https://open.spotify.com/track/5TZQ4kMvoYMWoyw8U13U1t" target="_blank" style="text-decoration:none; font-weight:600; font-size:18px; color:#9333ea;">
+🌅 Burn It Down — Parker McCollum
+</a>
+
+</div>
+
